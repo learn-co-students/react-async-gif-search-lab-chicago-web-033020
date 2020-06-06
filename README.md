@@ -1,3 +1,9 @@
+# API URL: https://api.giphy.com/v1/gifs/search?q=eminem&api_key=gXhWapWKL8GkwkQNvpEmkxgw5HkLai9x&rating=g
+
+<!-- gifs.data.forEach(gif => {
+  console.log(gif.images.original.url)
+}); -->
+
 # Giphy Search!
 
 ## Instructions
